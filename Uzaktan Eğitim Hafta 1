@@ -133,15 +133,6 @@ print(bubbleList)
 print(sortedList)
 print("----------")
 
-"""
-sortedList = BubbleSort(bubbleList) 
-When this expression is written, the array that is the parameter of the method changes automatically.
-This is because the python language takes the objects in the argument by reference.
-Therefore we've taken a copy of the original array that we want to send to the method as a parameter.
-Bu ifade yazıldığında, methodun parametresi olan dizi otomatik olarak değişir.
-Bunun nedeni, python dilinin argümandaki nesneleri referans olarak almasıdır.
-Bu nedenle, methoda parametre olarak göndermek istediğimiz orijinal dizinin bir kopyasını aldık.
-"""
 
 
 def binarySearch(inlist, find):
