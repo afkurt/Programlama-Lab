@@ -1,8 +1,10 @@
-# Programlama-Lab
-# -*- coding: utf-8 -*-
 """
 Created on Sat Apr 20 16:50:46 2020
 @author: Ahmet Furkan Kurt 170401002
+
+https://github.com/afkurt/Programlama-Lab/blob/master/ODEV%203
+
+"""
 
 
 from sympy import Symbol,pprint
